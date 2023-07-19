@@ -60,7 +60,7 @@ This is a simple command-line slot machine game implemented in JavaScript. The g
 4. Run the game by executing the following command:
 
    ```shell
-   node slot-machine.js
+   node project.js
    ```
 
 5. Follow the on-screen instructions to play the game.
